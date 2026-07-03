@@ -1,0 +1,44 @@
+[
+  {
+    "id": "proj-1",
+    "title": "E-Report System TRPL Undiksha",
+    "description": "Portal web modular untuk menyederhanakan pelaporan logbook harian mahasiswa magang TRPL langsung ke Universitas, menghilangkan birokrasi kertas.",
+    "tech": [
+      "React",
+      "Express",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "githubUrl": "https://github.com/gedebramanda",
+    "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=600&q=80",
+    "category": "Web Development"
+  },
+  {
+    "id": "proj-2",
+    "title": "Interactive Balinese VR / WebXR",
+    "description": "Pengembangan teknologi imersif berbasis WebXR untuk menyajikan visualisasi 3D warisan budaya Bali secara interaktif langsung di peramban web tanpa instalasi tambahan.",
+    "tech": [
+      "Three.js",
+      "A-Frame",
+      "WebXR",
+      "HTML5"
+    ],
+    "githubUrl": "https://github.com/gedebramanda",
+    "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=600&q=80",
+    "category": "Immersive Technology"
+  },
+  {
+    "id": "proj-3",
+    "title": "Interactive 3D RPG Game (Unity)",
+    "description": "Pembuatan game petualangan 3D interaktif yang menyajikan mekanik gameplay modular, sistem inventori, custom visual shader, serta optimasi performa tinggi untuk platform mobile dan PC.",
+    "tech": [
+      "Unity",
+      "C#",
+      "ShaderGraph",
+      "Blender"
+    ],
+    "githubUrl": "https://github.com/gedebramanda",
+    "imageUrl": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&w=600&q=80",
+    "category": "Game Development"
+  }
+]

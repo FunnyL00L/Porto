@@ -1,0 +1,74 @@
+[
+  {
+    "id": "gal-1",
+    "title": "Rapat Perencanaan Topologi",
+    "category": "Infrastruktur",
+    "imageUrl": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=600&q=80",
+    "description": "Sesi brainstorming skema rute server & firewall untuk intranet kampus.",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "gal-2",
+    "title": "Refining Frontend Codebase",
+    "category": "Kegiatan",
+    "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=600&q=80",
+    "description": "Merapikan modularitas komponen React & hooks serta arsitektur clean-code.",
+    "date": "2026-06-17"
+  },
+  {
+    "id": "gal-3",
+    "title": "Konfigurasi Server Rack",
+    "category": "Infrastruktur",
+    "imageUrl": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?auto=format&fit=crop&w=600&q=80",
+    "description": "Instalasi Nginx reverse proxy di server docker lokal laboratorium TRPL.",
+    "date": "2026-06-25"
+  },
+  {
+    "id": "gal-4",
+    "title": "Koordinasi Mahasiswa Undiksha",
+    "category": "Undiksha",
+    "imageUrl": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&w=600&q=80",
+    "description": "Berdiskusi menyusun kerangka format laporan magang bersama dosen pembimbing.",
+    "date": "2026-06-29"
+  },
+  {
+    "id": "gal-5",
+    "title": "Testing Load Query DB",
+    "category": "Infrastruktur",
+    "imageUrl": "https://images.unsplash.com/photo-1618401471353-b98aedd07871?auto=format&fit=crop&w=600&q=80",
+    "description": "Meneliti performa index query database PostgreSQL untuk optimasi latency.",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "gal-6",
+    "title": "WebXR Immersive Testing",
+    "category": "Kegiatan",
+    "imageUrl": "https://images.unsplash.com/photo-1592478411213-6153e4ebc07d?auto=format&fit=crop&w=600&q=80",
+    "description": "Pengujian fungsionalitas rendering 3D dan kacamata VR pada modul WebXR Bali virtual tour.",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "gal-7",
+    "title": "Penyusunan Modul Game",
+    "category": "Kegiatan",
+    "imageUrl": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=600&q=80",
+    "description": "Perancangan state machine AI musuh dan sistem inventori dinamis game RPG Unity.",
+    "date": "2026-07-02"
+  },
+  {
+    "id": "gal-8",
+    "title": "Asistensi Lab Pemrograman",
+    "category": "Undiksha",
+    "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?auto=format&fit=crop&w=600&q=80",
+    "description": "Mendampingi praktikum mahasiswa baru dalam pengenalan dasar web modern.",
+    "date": "2026-07-02"
+  },
+  {
+    "id": "gal-9",
+    "title": "Presentasi Evaluasi Akhir",
+    "category": "Undiksha",
+    "imageUrl": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?auto=format&fit=crop&w=600&q=80",
+    "description": "Penyajian demo hasil projek magang sistem e-report di depan juri penguji Undiksha.",
+    "date": "2026-07-03"
+  }
+]

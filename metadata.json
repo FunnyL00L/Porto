@@ -1,0 +1,6 @@
+{
+  "name": "Biografi Magang Gede Bramanda",
+  "description": "Website Biografi dan Jurnal Laporan Kegiatan Magang Gede Bramanda dari Universitas Pendidikan Ganesha (Undiksha) dengan UI modern, interaktif, dan penuh fitur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
