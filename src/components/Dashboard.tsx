@@ -119,9 +119,9 @@ export default function Dashboard({ profile, isEditor, onEditProfile }: Dashboar
   }, []);
 
   const defaultSlides = [
-    'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=600&q=80', // Student Portrait
-    'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&q=80', // Dev Portrait
-    'https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=600&q=80'  // Professional Portrait
+       'https://res.cloudinary.com/diuclq0nb/image/upload/v1783092798/Photo_from_bram-78-removebg-preview_pcihae.png', // Student Portrait
+    'https://obhpymyxeiwsvhdzaaly.supabase.co/storage/v1/object/public/media/28702bd5-9333-4e78-a572-cb2b6f012edc/0.12788517639515895.jpg', // Dev Portrait
+    'https://res.cloudinary.com/diuclq0nb/image/upload/v1783092807/image-removebg-preview_lnq4ie.png'
   ];
 
   const slidesToUse = editUrls.length > 0 ? editUrls : defaultSlides;
